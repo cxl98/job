@@ -12,7 +12,6 @@
     <artifactId>job-core</artifactId>
     <dependencies>
 
-
         <!-- groovy-all -->
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
