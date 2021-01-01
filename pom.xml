@@ -21,14 +21,14 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.test.skip>true</maven.test.skip>
 
-
-        <spring.version>4.3.25.RELEASE</spring.version>
+        <spring.version>4.3.14.RELEASE</spring.version>
         <spring-boot.version>1.5.22.RELEASE</spring-boot.version>
         <mybatis-spring-boot-starter.version>1.3.5</mybatis-spring-boot-starter.version>
         <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
 
         <slf4j-api.version>1.7.28</slf4j-api.version>
         <junit.version>4.12</junit.version>
+        <lombok_version>1.18.12</lombok_version>
 
         <commons-exec.version>1.3</commons-exec.version>
 
